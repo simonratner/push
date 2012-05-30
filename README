@@ -1,7 +1,11 @@
-Cordova skeleton
-================
+Cordova app
+===========
 
-Project layout for a multi-platform Cordova app using zepto, coffeescript, and sass.
+Multi-platform Cordova app using zepto, coffeescript, and sass.
+
+Skeleton
+--------
+$ git remote add skeleton git@github.com:simonratner/cordova-skeleton.git
 
 See also
 --------
